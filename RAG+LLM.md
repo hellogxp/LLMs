@@ -378,7 +378,7 @@ LangChain也是一种流行的LLM应用开发框架。LangChain中也包含了�
 ### User cases
 基于RAG的LLM系统可以构建众多应用，包括问答系统，聊天机器人和虚拟助理，内容摘要，内容生成，跨语言应用，知识库和专家系统等。
 #### 问答式搜索服务
-目前集团有Havenask-LLM的解决方案，目前Havenask支持问答的方式就是前文所述经典方案“文档切片+向量检索+大模型生成答案”的方案。    
+目前开源的方案有Havenask-LLM的解决方案，目前Havenask支持问答的方式就是前文所述经典方案“文档切片+向量检索+大模型生成答案”的方案。    
 
 ![image](https://github.com/hellogxp/LLMs/assets/1506016/683b32db-943d-408a-86a0-8f1f65e2be7c)    
 
